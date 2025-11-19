@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 I am a newcomer training in AI-tech in the IT-Korea Academy.
+
 I will upload my data ASAP!
 
 Thank you!
