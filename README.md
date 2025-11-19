@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I am a newcomer training in AI-tech in IT-Korea Academy.
+I will upload my data ASAP!
+
+Thank you!
+
 <!--
 **yssong01/yssong01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
