@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I am a newcomer training in AI-tech in the IT-Korea Academy.
+I am a newcomer currently undergoing training in AI technology at IT Korea Academy.
 
-I will upload my data ASAP!
+I will upload my detailed information as soon as possible.
 
-Thank you!
+Thank you.
 
 <!--
 **yssong01/yssong01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
